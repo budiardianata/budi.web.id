@@ -1,6 +1,7 @@
 <template>
   <button
     class='text-yellow-500 transition-colors duration-300 ease-linear focus:outline-none'
+    aria-label="Toggle Dark Mode"
     @click="toggle">
     <span v-if='isDark'>
       <icon-dark class='w-5 h-5'></icon-dark>

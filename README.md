@@ -1,5 +1,5 @@
 # budi.web
-
+[![Tests](https://github.com/budiardianata/budi.web.id/actions/workflows/main.yml/badge.svg)](https://github.com/budiardianata/budi.web.id/actions/workflows/main.yml)
 ## Build Setup
 
 ```bash
