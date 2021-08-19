@@ -1,5 +1,6 @@
 # budi.web
-[![Tests](https://github.com/budiardianata/budi.web.id/actions/workflows/ci.yml/badge.svg)](https://github.com/budiardianata/budi.web.id/actions/workflows/ci.yml)
+[![Tests](https://github.com/budiardianata/budi.web.id/actions/workflows/tests.yml/badge.svg)](https://github.com/budiardianata/budi.web.id/actions/workflows/tests.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/67c11ea1-8b25-4ec4-990d-221a61cfdd72/deploy-status)](https://app.netlify.com/sites/budiardianata/deploys)
 ## Build Setup
 
 ```bash
